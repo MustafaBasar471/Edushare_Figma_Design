@@ -21,7 +21,7 @@ const Menu = () => {
 const Navbar = () => {
   const [isMenuActive, setIsMenuActive] = useState(false);
   return (
-    <div className="max-w-[73.75rem] mx-auto mt-5 p-2">
+    <div className="mt-5 p-2">
       <div className="flex justify-between mx-5 items-center">
         <div className="flex items-center justify-center">
           <div className="w-[2.37rem] h-[2.37rem] flex items-center justify-center text-white font-semibold text-[1.75rem] bg-orange-500 rounded-full">
