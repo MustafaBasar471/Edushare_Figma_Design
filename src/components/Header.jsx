@@ -24,7 +24,7 @@ const Header = () => {
           </p>
         </div>
       </div>
-      <div className="w-[30rem] lg:w-[37.125rem]">
+      <div className="sm:w-[30rem] lg:w-[37.125rem]">
         <img src={Header_img} alt="header_img" />
       </div>
     </div>
