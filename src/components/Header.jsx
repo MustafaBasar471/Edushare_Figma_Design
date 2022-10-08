@@ -3,9 +3,9 @@ import { Header_img } from "../assets/index";
 
 const Header = () => {
   return (
-    <div className="p-2 mx-5 mt-[6rem] flex flex-col-reverse md:flex-row">
-      <div className="md:w-1/2 mt-5 md:mt-0">
-        <div className="md:w-3/4 space-y-12">
+    <div className="p-2 mx-5 mt-[6rem] flex items-center flex-col-reverse lg:flex-row">
+      <div className="lg:w-1/2 mt-5 md:mt-0">
+        <div className="lg:w-3/4 space-y-12">
           <p className="text-6xl">
             Discover best classes for the best learning
           </p>
@@ -24,7 +24,7 @@ const Header = () => {
           </p>
         </div>
       </div>
-      <div className="lg:w-[37.125rem]">
+      <div className="w-[30rem] lg:w-[37.125rem]">
         <img src={Header_img} alt="header_img" />
       </div>
     </div>
