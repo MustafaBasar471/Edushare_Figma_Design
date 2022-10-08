@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Icon } from "../icons";
 
 const Menu = () => {
   return (
@@ -47,20 +48,7 @@ const Navbar = () => {
             className="p-2 cursor-pointer hover:bg-[#E8F1FF] duration-300 rounded-full md:hidden"
             onClick={() => setIsMenuActive(!isMenuActive)}
           >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              strokeWidth={1.5}
-              stroke="currentColor"
-              className="w-6 h-6"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
-              />
-            </svg>
+            <Icon name="menu" />
           </div>
         </div>
       </div>
