@@ -5,3 +5,4 @@ export { default as HowItWorks } from "./HowItWorks";
 export { default as HowItWorksDetails } from "./HowItWorksDetails";
 export { default as HowItWorks2 } from "./HowItWorks2";
 export { default as HowItWorks2Details } from "./HowItWorks2Details";
+export { default as Features } from "./Features";

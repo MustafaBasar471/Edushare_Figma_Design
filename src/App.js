@@ -4,6 +4,7 @@ import {
   Brand,
   HowItWorks,
   HowItWorks2,
+  Features,
 } from "./components/index";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Brand />
       <HowItWorks />
       <HowItWorks2 />
+      <Features />
     </div>
   );
 }

@@ -3,7 +3,7 @@ import { howorks, howorks2, howorks3 } from "../assets/index";
 import { HowItWorks2Details } from "./index";
 const HowItWorks2 = () => {
   return (
-    <div className="mx-5 p-2 mt-10 mb-[12rem]">
+    <div className="mx-5 p-2 mt-10">
       <div>
         <div className="flex flex-col sm:flex-row justify-between sm:items-end">
           <p className="sm:w-[35rem] text-[1.5rem] sm:text-[2.75rem]">
