@@ -1,4 +1,10 @@
-import { Navbar, Header, Brand, HowItWorks } from "./components/index";
+import {
+  Navbar,
+  Header,
+  Brand,
+  HowItWorks,
+  HowItWorks2,
+} from "./components/index";
 
 function App() {
   return (
@@ -7,6 +13,7 @@ function App() {
       <Header />
       <Brand />
       <HowItWorks />
+      <HowItWorks2 />
     </div>
   );
 }

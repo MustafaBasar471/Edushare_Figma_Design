@@ -4,3 +4,6 @@ export { default as uni2 } from "./uni2.png";
 export { default as uni3 } from "./uni3.png";
 export { default as uni4 } from "./uni4.png";
 export { default as works } from "./works.png";
+export { default as howorks } from "./howorks.png";
+export { default as howorks2 } from "./howorks2.png";
+export { default as howorks3 } from "./howorks3.png";
