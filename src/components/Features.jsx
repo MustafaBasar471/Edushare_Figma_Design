@@ -3,7 +3,7 @@ import { features } from "../assets";
 
 const Features = () => {
   return (
-    <div className="mx-5 p-2 mt-10">
+    <div className="mx-5 p-2 mt-[5rem]">
       <div className="flex flex-col-reverse sm:flex-row items-center justify-between">
         <div className="sm:w-[29.75rem]">
           <p className="text-[2.75rem]">

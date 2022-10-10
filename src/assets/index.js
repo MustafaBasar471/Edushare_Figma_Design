@@ -8,3 +8,5 @@ export { default as howorks } from "./howorks.png";
 export { default as howorks2 } from "./howorks2.png";
 export { default as howorks3 } from "./howorks3.png";
 export { default as features } from "./features.png";
+export { default as profile1 } from "./profile1.png";
+export { default as profile2 } from "./profile2.png";

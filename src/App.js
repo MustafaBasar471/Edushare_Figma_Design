@@ -5,6 +5,7 @@ import {
   HowItWorks,
   HowItWorks2,
   Features,
+  Testimonial,
 } from "./components/index";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <HowItWorks />
       <HowItWorks2 />
       <Features />
+      <Testimonial />
     </div>
   );
 }

@@ -6,3 +6,5 @@ export { default as HowItWorksDetails } from "./HowItWorksDetails";
 export { default as HowItWorks2 } from "./HowItWorks2";
 export { default as HowItWorks2Details } from "./HowItWorks2Details";
 export { default as Features } from "./Features";
+export { default as Testimonial } from "./Testimonial";
+export { default as TestimonialDetails } from "./TestimonialDetails";
