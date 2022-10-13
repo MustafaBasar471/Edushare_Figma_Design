@@ -12,7 +12,7 @@ const Pricing = () => {
             Upgrade now
           </button>
         </div>
-        <div className="mt-10 justify-center md:justify-between gap-10 mb-[30rem] flex items-center flex-wrap">
+        <div className="mt-10 justify-center md:justify-between gap-10 flex items-center flex-wrap">
           {/*  */}
           <PricingCart title="Regular" color="#2076FF" price="65" />
           <PricingCart title="Medium" color="#F6C07A" price="95" />
