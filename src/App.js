@@ -8,6 +8,7 @@ import {
   Testimonial,
   Pricing,
   Footer,
+  SomeInfo,
 } from "./components/index";
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <Testimonial />
       <Pricing />
       <Footer />
+      <SomeInfo />
     </div>
   );
 }
