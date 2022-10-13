@@ -29,7 +29,7 @@ const PricingCart = ({ title, color, price }) => {
         </div>
         <div className="mt-[4rem] mb-[2rem]">
           <button
-            className={`w-[16.25rem] h-[4.375rem] border border-[${color}] rounded-lg text-[${color}] text-xl`}
+            className={`px-[4rem] h-[4.375rem] border border-[${color}] rounded-lg text-[${color}] text-xl`}
           >
             Buy Plan
           </button>

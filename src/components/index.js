@@ -10,3 +10,4 @@ export { default as Testimonial } from "./Testimonial";
 export { default as TestimonialDetails } from "./TestimonialDetails";
 export { default as Pricing } from "./Pricing";
 export { default as PricingCart } from "./PricingCart";
+export { default as Footer } from "./Footer";

@@ -7,6 +7,7 @@ import {
   Features,
   Testimonial,
   Pricing,
+  Footer,
 } from "./components/index";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Features />
       <Testimonial />
       <Pricing />
+      <Footer />
     </div>
   );
 }
