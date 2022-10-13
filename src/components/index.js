@@ -8,3 +8,5 @@ export { default as HowItWorks2Details } from "./HowItWorks2Details";
 export { default as Features } from "./Features";
 export { default as Testimonial } from "./Testimonial";
 export { default as TestimonialDetails } from "./TestimonialDetails";
+export { default as Pricing } from "./Pricing";
+export { default as PricingCart } from "./PricingCart";

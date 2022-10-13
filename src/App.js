@@ -6,6 +6,7 @@ import {
   HowItWorks2,
   Features,
   Testimonial,
+  Pricing,
 } from "./components/index";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <HowItWorks2 />
       <Features />
       <Testimonial />
+      <Pricing />
     </div>
   );
 }
