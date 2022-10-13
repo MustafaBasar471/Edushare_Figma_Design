@@ -15,7 +15,7 @@ const Pricing = () => {
         <div className="mt-10 justify-around flex gap-5 flex-col sm:flex-row items-center flex-wrap">
           {/*  */}
           <PricingCart title="Regular" color="#2076FF" price="65" />
-          <PricingCart title="Medium" color="#F6C07A" price="95" />
+          <PricingCart title="Medium" color="#F77E53" price="95" />
           <PricingCart title="Premium" color="#F77E53" price="445" />
           {/*  */}
         </div>
